@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced72a76-b40e-404d-b9af-01729cc91433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.rnd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/todo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/Auth/AuthController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +184,7 @@
       <workItem from="1602342131454" duration="879000" />
       <workItem from="1602421151730" duration="760000" />
       <workItem from="1602421935126" duration="702000" />
-      <workItem from="1602480231390" duration="3268000" />
+      <workItem from="1602480231390" duration="8015000" />
     </task>
     <servers />
   </component>
@@ -213,5 +207,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="152" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602335300689" />
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1602488479300">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1602488479300" />
   </component>
 </project>
